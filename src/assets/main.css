@@ -1,0 +1,15 @@
+
+
+.navbar-brand:hover{
+    border-radius: 10%;
+    background: rgb(195, 198, 201);
+}
+.navbar-nav:hover{
+    border-radius: 10%;
+    background: rgb(195, 198, 201);
+}
+@media(max-width:1000px){
+    .btn{
+        margin-top: 5px;
+    }
+}
